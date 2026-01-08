@@ -1,24 +1,49 @@
-# 💫 About Me:
-I'm currently working on CryoEM Models and Full Stack Applications<br>I'm looking to collaborate on Full Stack Applications, NLP, Computer Vision, Multi-Agent Agentic Systems<br>I'm looking for help with Full Stack Applications<br>I'm currently learning Computer Vision and Representation Learning<br>Ask me about AI, NLP, Trekking <br>+ Fun fact : Built cli_speeder to optimize workflows and shipped a quantitative finance library (quickquant) with 2.3K+ downloads | Also passionate about trekking
-
+I'm a final-year **B.Tech student at IIT Kharagpur** (Geology & Geophysics) with a passion for **AI/ML, Full-Stack Development & Geospatial Intelligence**<br>
+**Currently working on:** CryoEM Models, Multi-Agent Systems, Full Stack Applications & Landslide Susceptibility Mapping<br>
+**Looking to collaborate on:** Full Stack Applications, NLP, Computer Vision, Multi-Agent Agentic Systems, Geospatial ML<br>
+**Looking for help with:** Advanced RL implementations & Production ML deployment<br>
+**Currently learning:** Computer Vision, Representation Learning & Reinforcement Learning<br>
+**Ask me about:** AI/ML pipelines, Full-stack architecture, Trekking trails, Quantitative Finance<br>
+**+ Fun fact:** Built **cli_speeder** to optimize workflows, shipped **quickquant** (2.3K+ PyPI downloads), & fine-tuned Phi-3.5 on single T4 GPU | Passionate about Central Asian trekking
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nabarupghosh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nabarup-ghosh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nabarupeducation@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nabarupghosh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabarup-ghosh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nabarupeducation@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nabarup1)
 
 # 💻 Tech Stack:
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cython](https://img.shields.io/badge/Cython-4B8BBE?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Transformers](https://img.shields.io/badge/Hugging%20Face-%23FF4B4B.svg?style=for-the-badge&logo=hugging-face&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nabarup1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nabarup1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabarup1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nabarup1&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&hide=html,css,jupyter%20notebook" alt="Nabarup1 Top Languages" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nabarup1&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&hide_border=true" alt="Nabarup1 Stats" />
+</p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nabarup1&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Nabarup1&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</p>
+
+### 🔥 Top Projects
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nabarup1&repo=taxneous&theme=radical&bg_color=0d1117&text_color=ffffff&show_icons=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nabarup1&repo=quickquant&theme=radical&bg_color=0d1117&text_color=ffffff&show_icons=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nabarup1&repo=cli_speeder&theme=radical&bg_color=0d1117&text_color=ffffff&show_icons=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeetukgpian&repo=InfuseAI&theme=radical&bg_color=0d1117&text_color=ffffff&show_icons=true&hide_border=true" />
+</p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nabarup1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShuvraneelMitra&repo=PRAGATI&theme=radical&bg_color=0d1117&text_color=ffffff&show_icons=true&hide_border=true" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nabarup1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+    <img src="https://visitcount.itsvg.in/api?id=Nabarup1&icon=5&color=6" />
+</p>
