@@ -1,45 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+I'm currently working on CryoEM Models and Full Stack Applications<br>I'm looking to collaborate on Full Stack Applications, NLP, Computer Vision, Multi-Agent Agentic Systems<br>I'm looking for help with Full Stack Applications<br>I'm currently learning Computer Vision and Representation Learning<br>Ask me about AI, NLP, Trekking <br>+ Fun fact : Built cli_speeder to optimize workflows and shipped a quantitative finance library (quickquant) with 2.3K+ downloads | Also passionate about trekking
 
-I am a final-year undergraduate at IIT Kharagpur. While my academic major is in the Department of Geology and Geophysics, my primary focus and passion lie in Computer Science, specifically in Machine Learning, Deep Learning, and Full-Stack Development. I enjoy building practical tools that solve real-world problems, from optimizing code performance to automating complex research workflows.
 
-### Major Projects
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nabarupghosh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nabarup-ghosh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nabarupeducation@gmail.com) 
 
-Here are some of the key projects I have been working on:
+# 💻 Tech Stack:
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nabarup1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Nabarup1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabarup1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-**1. InfuseAI**
-[Repository](https://github.com/Jeetukgpian/InfuseAI)
-A collaborative AI initiative exploring advanced agentic workflows and integration. This project focuses on building robust AI systems capable of handling complex, multi-step tasks, potentially leveraging retrieval-augmented generation (RAG) and multi-agent architectures to enhance decision-making processes.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Nabarup1&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
 
-**2. PRAGATI**
-[Repository](https://github.com/ShuvraneelMitra/PRAGATI)
-An agentic AI workflow designed to streamline the academic peer-review process. PRAGATI mimics a human reviewer by acting as a Critic, Fact-Checker, and Scorer to evaluate research papers. It utilizes a multi-agent system to assess publishability and recommends suitable conferences (CVPR, ICLR, etc.) with high accuracy.
-*   **Tech Stack:** LangGraph, Pathway VectorStore, RAG, PyMuPDF, Transformers.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Nabarup1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-**3. QuickQuant**
-[Repository](https://github.com/Nabarup1/quickquant)
-A high-performance Python library for quantitative finance that I developed and deployed. It implements advanced statistical models like Black-Scholes, Heston, and Merton for option pricing and financial analysis. To ensure speed and efficiency for heavy computational tasks, the core mathematical operations are optimized using Cython.
-*   **Impact:** 2.3K+ downloads on PyPI.
+---
+[![](https://visitcount.itsvg.in/api?id=Nabarup1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-**4. Smart Chatbot**
-[Repository](https://github.com/Nabarup1/smart-chatbot)
-A domain-specific generative AI chatbot capable of handling queries across multiple business domains. I fine-tuned the Phi-3.5 model using QLoRA techniques on limited hardware (single T4 GPU), optimizing the training process with multithreading to handle a custom dataset of over 25,000 entries effectively.
-
-**5. CLI Speeder**
-[Repository](https://github.com/Nabarup1/cli_speeder)
-A Command Line Interface tool built to optimize Python code execution. This tool helps identifying bottlenecks and improving the runtime performance of Python scripts, reflecting my interest in writing efficient, low-latency code.
-
-**6. Elyx Journey Visualizer**
-[Repository](https://github.com/Nabarup1/elyx-journey-visualizer)
-A visualization tool designed to map and analyze customer journeys. This project leverages machine learning to interpret user behavior data, helping to identify drop-off points and optimize user experiences through data-driven insights.
-
-### Statistical Data
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nabarup1&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="Nabarup1 Top Languages" />
-</p>
-
-<br>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nabarup1&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="Nabarup1 Stats" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
