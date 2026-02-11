@@ -69,7 +69,7 @@
 ### 💻 Tech Stack
 
 <details>
-  <summary><b>🔥 View Full Arsenal (Click to Expand)</b></summary>
+  <summary><b> View Full Arsenal (Click to Expand)</b></summary>
   <br>
   
   **Languages**<br>
