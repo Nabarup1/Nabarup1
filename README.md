@@ -1,10 +1,11 @@
 <h1 align="center">Hi there, I'm Nabarup 👋</h1>
 <h3 align="center">Geospatial Intelligence | AI/ML Engineer | Full-Stack Developer</h3>
 <p align="center">
-  <i>Bridging the gap between earth sciences, complex multi-agent systems, and production-ready applications.</i>
+  <i>Building end-to-end intelligent systems—from robust full-stack architectures to multi-agent AI and geospatial analytics.</i>
 </p>
 
 <p align="center">
+  <a href="https://scholar.google.com/citations?user=NOsQL-wAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white&style=for-the-badge" alt="Google Scholar"></a>
   <a href="https://www.linkedin.com/in/nabarup-ghosh"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
   <a href="mailto:nabarupeducation@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"></a>
   <a href="https://www.instagram.com/nabarupghosh_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram"></a>
@@ -47,6 +48,18 @@
       <h3 align="center">📈 <a href="https://github.com/Nabarup1/quickquant">quickquant</a></h3>
       <p align="center">A quantitative finance library making technical analysis fast and accessible. Shipped and downloaded 2.3K+ times on PyPI.</p>
       <p align="center"><strong>Stack:</strong> Python, Pandas, Quant Finance</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤝 <a href="https://github.com/ShuvraneelMitra/PRAGATI">PRAGATI</a></h3>
+      <p align="center">A major collaborative repository I actively contribute to, focusing on delivering robust and impactful software solutions.</p>
+      <p align="center"><strong>Stack:</strong> Open Source / Full-Stack</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏔️ Landslide Susceptibility Mapping</h3>
+      <p align="center">A geospatial intelligence research project analyzing complex environmental data to model landslide susceptibility in the Raigad region (targeted for EGU 2026).</p>
+      <p align="center"><strong>Stack:</strong> Geospatial ML, GIS, Python</p>
     </td>
   </tr>
 </table>
@@ -94,20 +107,18 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nabarup1&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&hide_border=true&title_color=008080&icon_color=008080" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nabarup1&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&hide=html,css,jupyter%20notebook&hide_border=true&title_color=008080" width="48%" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nabarup1&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&hide_border=true&title_color=008080&icon_color=008080" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nabarup1&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&hide=html,css,jupyter%20notebook&hide_border=true&title_color=008080" alt="Top Languages" />
+</p>
 
-<br>
-
-<div align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Nabarup1&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
+</p>
 
 ---
 
 <p align="center">
     <i>Thanks for stopping by! Let's build something awesome together.</i><br><br>
-    <img src="https://visitcount.itsvg.in/api?id=Nabarup1&icon=5&color=6" />
+    <img src="https://komarev.com/ghpvc/?username=Nabarup1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
