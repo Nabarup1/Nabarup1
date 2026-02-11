@@ -56,11 +56,11 @@
       <p align="center">A major collaborative repository I actively contribute to, focusing on delivering robust and impactful software solutions.</p>
       <p align="center"><strong>Stack:</strong> Open Source / Full-Stack</p>
     </td>
-    <td width="50%" valign="top">
+    <!-- <td width="50%" valign="top">
       <h3 align="center">🏔️ Landslide Susceptibility Mapping</h3>
       <p align="center">A geospatial intelligence research project analyzing complex environmental data to model landslide susceptibility in the Raigad region (targeted for EGU 2026).</p>
       <p align="center"><strong>Stack:</strong> Geospatial ML, GIS, Python</p>
-    </td>
+    </td> -->
   </tr>
 </table>
 
@@ -105,9 +105,8 @@
 
 ---
 
-### 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nabarup1&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&hide_border=true&title_color=008080&icon_color=008080" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nabarup1&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&hide=html,css,jupyter%20notebook&hide_border=true&title_color=008080" alt="Top Languages" />
 </p>
@@ -121,4 +120,4 @@
 <p align="center">
     <i>Thanks for stopping by! Let's build something awesome together.</i><br><br>
     <img src="https://komarev.com/ghpvc/?username=Nabarup1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+</p> -->
