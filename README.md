@@ -32,11 +32,11 @@
       <p align="center">A production-ready platform for building custom AI apps powered by your own knowledge bases. Features a powerful RAG pipeline, Web Dashboard, Admin Panel, and developer SDKs.</p>
       <p align="center"><strong>Stack:</strong> RAG Pipeline, Next.js, Node.js, Python</p>
     </td>
-    <td width="50%" valign="top">
+    <!-- <td width="50%" valign="top">
       <h3 align="center">🌲 <a href="https://github.com/Nabarup1/Silvanus">Project SILVANUS</a></h3>
       <p align="center">An acoustic AI system designed for real-time forest protection and environmental monitoring, turning soundscapes into actionable intelligence.</p>
       <p align="center"><strong>Stack:</strong> Audio AI, ML, Python</p>
-    </td>
+    </td> -->
   </tr>
   <tr>
     <td width="50%" valign="top">
